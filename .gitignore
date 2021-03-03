@@ -1,0 +1,6 @@
+*.log
+*.stdout
+*.stderr
+*.list
+code_*
+__pycache__/*
